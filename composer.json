@@ -1,5 +1,5 @@
 {
-    "name":"freyo/xinge",
+    "name":"ericsource/xinge",
     "description":"This package makes it easy to send notifications via Tencent Xinge with Laravel",
     "license":"MIT",
     "authors":[
@@ -25,7 +25,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Freyo\\Xinge\\ServiceProvider"
+                "Ericsource\\Xinge\\ServiceProvider"
             ]
         }
     }
